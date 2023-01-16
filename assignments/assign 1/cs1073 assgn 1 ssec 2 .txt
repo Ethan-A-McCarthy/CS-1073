@@ -1,0 +1,15 @@
+CS 1073 assign 1 sec 2 A
+
+1. Step West
+2. Step South
+3. Step West
+4. Step South
+5. Step East
+6. Step South
+7. Step West
+8. Step South
+9. Step East
+10. Step North
+11. Step East 
+12. Step North
+

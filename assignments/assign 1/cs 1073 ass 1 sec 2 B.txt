@@ -1,0 +1,5 @@
+1. Flip Switch F3
+2. Flip Switch E4
+3. Flip Switch D3
+4. Flip Switch C2
+5. Flip Switch B3
